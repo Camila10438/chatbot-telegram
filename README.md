@@ -15,7 +15,7 @@ Bot:      🌤️ A temperatura em São Paulo é de 20°C
 ```
 .
 ├── docker-compose.yml   # Infraestrutura: N8N, Postgres, Redis, Ngrok
-└── workflow.json        # Workflow exportado do N8N (importar manualmente)
+└── workflow-chatbot-telegram.json        # Workflow exportado do N8N (importar manualmente)
 ```
 
 ---
